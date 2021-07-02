@@ -14,7 +14,7 @@ export const Header: React.FunctionComponent<Props> = () => {
         <a href='/'>
           <Logo size='xxl'></Logo>
         </a>
-        <h1>Jump App v.2.1 DEV - <username></h1>
+        <h1>Jump App v.2.1 DEV - alopezme</h1>
       </div>
     </>
   );
